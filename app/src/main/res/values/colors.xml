@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4e92df</color>
+    <color name="colorPrimaryDark">#3f7abd</color>
+    <color name="colorAccent">#4e92df</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorDarkGrey">#3f445e</color>
+    <color name='colorGreen'>#017506</color>
+    <color name="colorBgkButtonAdd">#ce0a24</color>
+    <color name="colorMeetDateBefore">#FF7474</color>
+    <color name="colorMeetDateSoon">#FFA92B</color>
+    <color name="colorMeetDateAfter">#aeceb8</color>
+</resources>

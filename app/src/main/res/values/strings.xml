@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Ma réu</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="addmeetingactivity">Nouvelle Réunion</string>
+    <!-- Strings used for ListMeetingActivity_Main -->
+    <string name="del_Meeting">"Suppression de la Réunion "</string>
+    <string name="del_Meeting_at">" à "</string>
+    <string name="del_Meeting_done">effectuée !</string>
+    <!-- Strings used for AddMeetingActivity -->
+    <string name="passed_Date">La date est passée !</string>
+    <string name="select_Date">Sélectionner une date : </string>
+    <string name="lower_time">Heure fin inférieure !</string>
+    <string name="tooShort_Meeting">Réunion &#60; 30 min !</string>
+    <string name="select_StartTime">Choisir heure début !</string>
+    <string name="select_EndTime">Choisir heure fin !</string>
+    <string name="select_Time">"Sélectionner heure : "</string>
+    <string name="existing_Email">Email existant ! </string>
+    <string name="incorrect_Email">Email incorrect ! </string>
+    <string name="conflict_Meeting">Conflit disponibilité salle... </string>
+    <string name="select_Room">Sélectionner une salle !</string>
+    <string name="total_Attendees">"Nombre de participants : "</string>
+
+</resources>
+
+

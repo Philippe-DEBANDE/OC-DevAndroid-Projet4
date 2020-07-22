@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.ListMeetingActivity_Main">
+
+
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab_addMeeting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/fab_margin"
+        app:tint="@color/colorWhite"
+        android:backgroundTint="@color/colorBgkButtonAdd"
+        app:srcCompat="@drawable/ic_add" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/List_Meeting_rv"
+        app.layoutManager="LinearLayoutManager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ui.ListMeetingActivity_Main"
+        tools:listitem="@layout/fragment_meeting_item" />
+
+    <FrameLayout
+        android:id="@+id/fragment_container"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content" />
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
