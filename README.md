@@ -33,11 +33,11 @@ La saisie est axé sur la facilité et la rapidité pour l'utilisateur :
   * Utilisation de date et time pickers pour la saisie des dates / heures.
   * Saisie contrôlée avant sa fin : la salle, la date, heure de débuts et fin sont les données majeures.  
   * Les tests sont effectués en cours de saisie sont :
-  >   1. Salle non choisie.
-      2. Date et heure passées.
-      3. Heure de fin < heure début
-      4. Réunion trop courte < 30 minutes.
-      5. Vérification disponibilité salle quand ces données sont remplies.
+      1. Salle non choisie.  
+      2. Date et heure passées.  
+      3. Heure de fin < heure début.  
+      4. Réunion trop courte < 30 minutes.  
+      5. Vérification disponibilité salle quand ces données sont remplies.  
 
   * L'objet de la réunion (non vide) et le nombre de particpants >= 2 sont les autres critères qui permettent la validation de la réunion.
   Un total des participants est affiché en temps réel.  
