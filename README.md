@@ -1,9 +1,9 @@
-#  Mareu
+#  Maréu
 
 ![Logo](img/Logo-Lamzone.png)
 
 ### Présentation :
-Ce dépôt contient l'application Mareu (4ème projet du parcours Développeur Android Junior d'OpenClassrooms).   
+Ce dépôt contient l'application Maréu (4ème projet du parcours Développeur Android Junior d'OpenClassrooms).   
 L'application est une gestion de réunions et est développée en intégralité sans base existante.  
 Les principales fonctionnalités sont :  
   - Affichage de la liste des réunions avec :  
